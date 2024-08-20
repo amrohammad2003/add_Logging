@@ -1,0 +1,6 @@
+@WebResApplication_HostAddress = http://localhost:5036
+
+GET {{WebResApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

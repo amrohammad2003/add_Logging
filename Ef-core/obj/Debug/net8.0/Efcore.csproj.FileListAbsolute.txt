@@ -1,0 +1,15 @@
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\obj\Debug\net8.0\Efcore.csproj.AssemblyReference.cache
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\obj\Debug\net8.0\Efcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\obj\Debug\net8.0\Efcore.AssemblyInfoInputs.cache
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\obj\Debug\net8.0\Efcore.AssemblyInfo.cs
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\obj\Debug\net8.0\Efcore.csproj.CoreCompileInputs.cache
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\bin\Debug\net8.0\Efcore.deps.json
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\bin\Debug\net8.0\Efcore.dll
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\bin\Debug\net8.0\Efcore.pdb
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\bin\Debug\net8.0\Domain.dll
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\bin\Debug\net8.0\Domain.pdb
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\obj\Debug\net8.0\Efcore.csproj.Up2Date
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\obj\Debug\net8.0\Efcore.dll
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\obj\Debug\net8.0\refint\Efcore.dll
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\obj\Debug\net8.0\Efcore.pdb
+C:\Users\new laptop\Desktop\projects\ClassLibrary1\Ef-core\obj\Debug\net8.0\ref\Efcore.dll
